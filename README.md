@@ -1,4 +1,4 @@
-# GameJam16
+# SkullBears
 
 The Newbz's entry to Porto Graphic's 2016 GameJam. Theme: Twist
 
