@@ -12,4 +12,6 @@ Developed by Monokilho
 
 2DAssets by KittyT and Waachan
 
+Sound and game design by  : 
+
 CopyRight 2016 
