@@ -9,6 +9,7 @@ Arrows keys move left and right while Z key jumps.
 Feel free to look at and play.
 
 Developed by Monokilho
+
 2DAssets by KittyT and Waachan
 
 CopyRight 2016 
