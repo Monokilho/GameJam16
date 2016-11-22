@@ -8,10 +8,8 @@ Arrows keys move left and right while Z key jumps.
 
 Feel free to look at and play.
 
-Developed by Monokilho
+Developed by Monokilho;
 
-2DAssets by KittyT and Waachan
+2DAssets by KittyT and Waachan;
 
-Sound and game design by  João Lopes : 
-
-CopyRight 2016 
+Sound and game design by  João Lopes.
